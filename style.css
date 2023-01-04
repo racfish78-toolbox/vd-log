@@ -39,7 +39,13 @@ div#buttonWrapper button#startWebcam {
 	border: 1px solid #007bff;
 }
 
+div#buttonWrapper button.disabled {
+	background-color: #dee5e7!important;
+	border: 1px solid #dee5e7!important;
+}
+
 div#buttonWrapper button#startScreenShare {
+
 	background-color: #17a2b8;
 	border: 1px solid #17a2b8;
 }
@@ -50,16 +56,16 @@ div#buttonWrapper button#mergeStreams {
 }
 
 div#buttonWrapper button#startRecording {
-	background-color: #17a2b8;
-	border: 1px solid #17a2b8;
+	background-color: #dc3545;
+	border: 1px solid #dc3545;
 }
 
 div#buttonWrapper button#stopRecording {
-	background-color: #000000;
-	border: 1px solid #000000;
+	background-color: #8f10ac;
+	border: 1px solid #8f10ac;
 }
 
 div#buttonWrapper button#stopAllStreams {
-	background-color: #dc3545;
-	border: 1px solid #dc3545;
+	background-color: #000000;
+	border: 1px solid #000000;
 }
