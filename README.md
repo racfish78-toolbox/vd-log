@@ -1,2 +1,2 @@
 # vd-log
-Repositório de open source para gravação de vídeo com tela compartilhada.
+Repositório open source para serviço de gravação de vídeo com tela compartilhada.
